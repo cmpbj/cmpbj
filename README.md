@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 Atualmente estou desenvolvendo e aprimorando minhas habilidades de programação em Python, mas tenho planos de aprender mais sobre Linguagem R também<br>👯 Busco colaborar com projetos de análise exploratória de dados e de Business Intelligence<br>🌱 Também estou em processo de aprendizagem de Estatística e Machine Learning<br>⚡ Minha área de formação é em humanidades, mais especificamente comunicação social
+🔭 Olá, sou um jornalista e bacharel em humanidades que decidiu explorar uma nova paixão: a área de dados!
+
+Atualmente exerço a função de Analytics Engineer e utilizo as principais ferramentas do Modern Data Stack para criar e implementar soluções que visam a obtenção de vantagens analíticas.
+
+Meu trabalho atual envolve uma variedade de habilidades técnicas, incluindo:
+
+* Dominio avançado em SQL para realizar consultas complexas em bancos de dados;
+
+* Uso do dbt para modelagem e transformação de dados, garantindo a qualidade e a consistência em todo o pipeline analítico;
+
+* Experiência prática com o BigQuery, aproveitando todo o potencial da plataforma para lidar com volumes massivos de dados;
+
+* Criação de painéis interativos no Power BI para visualização de informações e apresentação de insights acionáveis;
+
+* Aplicação de habilidades em Python para automatizar algumas tarefas.
+
+Espero poder compartilhar aqui um pouco do que venho estudando e aprendendo no meu dia a dia.
 
 
 ## 🌐 Socials:
