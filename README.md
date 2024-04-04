@@ -1,21 +1,21 @@
 # 💫 About Me:
-🔭 Olá, sou um jornalista e bacharel em humanidades que decidiu explorar uma nova paixão: a área de dados!
+🔭 Olá, pessoal, me chamo Carlos Magno. Sejam bem-vindos ao meu portfólio!
 
-Atualmente exerço a função de Analytics Engineer e utilizo as principais ferramentas do Modern Data Stack para criar e implementar soluções que visam a obtenção de vantagens analíticas.
+Possuo experiência profissional como Analytics Engineer e Analista de Dados, o que me permitiu ter uma visão mais ampla do ciclo de vida dos dados, desde a criação/armazenamento até seu uso propriamente dito, arquivamento e exclusão. Atualemnte utilizo as principais ferramentas do Modern Data Stack para criar e implementar soluções que visam a obtenção de vantagens analíticas.
 
 Meu trabalho atual envolve uma variedade de habilidades técnicas, incluindo:
 
-* Dominio avançado em SQL para realizar consultas complexas em bancos de dados;
-
-* Uso do dbt para modelagem e transformação de dados, garantindo a qualidade e a consistência em todo o pipeline analítico;
-
-* Experiência prática com o BigQuery, aproveitando todo o potencial da plataforma para lidar com volumes massivos de dados;
+* Domínio avançado em SQL para realizar consultas complexas em bancos de dados; 
 
 * Criação de painéis interativos no Power BI para visualização de informações e apresentação de insights acionáveis;
 
-* Aplicação de habilidades em Python para automatizar algumas tarefas.
+* Aplicação de habilidades em Python para automatizar processos, fazendo Scripts de web scraping para extração de informações e tratamento de dados.
 
-Espero poder compartilhar aqui um pouco do que venho estudando e aprendendo no meu dia a dia.
+Também possuo experiência com:
+
+* dbt, para modelagem e transformação de dados, garantindo a qualidade e a consistência em todo o pipeline analítico;
+
+* Experiência prática com o BigQuery, aproveitando todo o potencial da plataforma para lidar com volumes massivos de dados;
 
 
 ## 🌐 Socials:
