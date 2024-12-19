@@ -1,28 +1,39 @@
 # 💫 About Me:
-🔭 Olá, pessoal, me chamo Carlos Magno. Sejam bem-vindos ao meu portfólio!
+🔭 Welcome to My GitHub Portfolio!
 
-Possuo experiência profissional como Analytics Engineer e Analista de Dados, o que me permitiu ter uma visão mais ampla do ciclo de vida dos dados, desde a criação/armazenamento até seu uso propriamente dito, arquivamento e exclusão. Atualemnte utilizo as principais ferramentas do Modern Data Stack para criar e implementar soluções que visam a obtenção de vantagens analíticas.
+Hi, I’m Carlos Magno, and I’m thrilled to have you here!
 
-Meu trabalho atual envolve uma variedade de habilidades técnicas, incluindo:
+I am a Team Leader Analytics Engineer with a strong background in data analysis, modeling, and transformation. My professional journey has given me a comprehensive understanding of the data lifecycle, from creation and storage to utilization, archiving, and deletion.
 
-* Domínio avançado em SQL para realizar consultas complexas em bancos de dados; 
+Currently, I leverage the Modern Data Stack to design and implement cutting-edge solutions that deliver actionable insights and drive business success.
 
-* Criação de painéis interativos no Power BI para visualização de informações e apresentação de insights acionáveis;
+**What I Do**:
+* Data Modeling & Transformation: Using tools like dbt, I ensure data consistency and quality across the analytical pipeline.
+* SQL Mastery: Advanced expertise in writing complex queries to solve analytical challenges.
+* Platform Development: Building and maintaining modern data platforms with Snowflake and Databricks.
+* CI/CD Implementation: Implementing CI and Slim CI pipelines in GitHub and Bitbucket for workflows.
+* Query Migration: Transitioning legacy system queries to modern platforms like Snowflake and Databricks using dbt.
+* Interactive Dashboards: Creating insightful, interactive dashboards in Power BI to visualize key metrics and drive decision-making.
 
-* Aplicação de habilidades em Python para automatizar processos, fazendo Scripts de web scraping para extração de informações e tratamento de dados.
+**Tools & Technologies I Work With**:
 
-Também possuo experiência com:
-
-* dbt, para modelagem e transformação de dados, garantindo a qualidade e a consistência em todo o pipeline analítico;
-
-* Experiência prática com o BigQuery, aproveitando todo o potencial da plataforma para lidar com volumes massivos de dados;
+* Databases: Snowflake, BigQuery
+* Data Transformation: dbt
+* Visualization: Power BI
+* Programming: Python, SQL
+* Version Control & CI/CD: GitHub, Bitbucket
+* Certifications:
+  * SnowPro Core Certification
+  * dbt Developer Certification
+  * 
+Feel free to explore my repositories to see some of my projects and contributions. Let’s connect and collaborate to create impactful data solutions!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-data-analyst/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carlosmagnopbjunior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/carlos-magno-data-analyst/](https://www.linkedin.com/in/cmagnopbj/))
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cmpbj&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cmpbj&theme=vue-dark&hide_border=false)<br/>
