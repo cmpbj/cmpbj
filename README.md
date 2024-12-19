@@ -25,7 +25,7 @@ Currently, I leverage the Modern Data Stack to design and implement cutting-edge
 * Certifications:
   * SnowPro Core Certification
   * dbt Developer Certification
-  * 
+ 
 Feel free to explore my repositories to see some of my projects and contributions. Let’s connect and collaborate to create impactful data solutions!
 
 
