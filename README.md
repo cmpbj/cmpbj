@@ -9,8 +9,8 @@ Currently, I leverage the Modern Data Stack to design and implement cutting-edge
 
 **What I Do**:
 * Data Modeling & Transformation: Using tools like dbt, I ensure data consistency and quality across the analytical pipeline.
-* SQL Mastery: Advanced expertise in writing complex queries to solve analytical challenges.
-* Platform Development: Building and maintaining modern data platforms with Snowflake and Databricks.
+* SQL: Advanced expertise in writing complex queries to solve analytical challenges.
+* Platform Development: Building and maintaining modern data platforms with Snowflake, Databricks and Google Cloud.
 * CI/CD Implementation: Implementing CI and Slim CI pipelines in GitHub and Bitbucket for workflows.
 * Query Migration: Transitioning legacy system queries to modern platforms like Snowflake and Databricks using dbt.
 * Interactive Dashboards: Creating insightful, interactive dashboards in Power BI to visualize key metrics and drive decision-making.
