@@ -3,9 +3,9 @@
 
 Hi, I’m Carlos Magno, and I’m thrilled to have you here!
 
-I am a Team Leader Analytics Engineer with a strong background in data analysis, modeling, and transformation. My professional journey has given me a comprehensive understanding of the data lifecycle, from creation and storage to utilization, archiving, and deletion.
+I am a Team Leader Analytics Engineer with a strong background in data analysis, modeling, and transformation. My professional journey has given me a comprehensive understanding of the data lifecycle.
 
-Currently, I leverage the Modern Data Stack to design and implement cutting-edge solutions that deliver actionable insights and drive business success.
+Currently, I leverage the Modern Data Stack to design and implement solutions that deliver actionable insights and drive business success.
 
 **What I Do**:
 * Data Modeling & Transformation: Using tools like dbt, I ensure data consistency and quality across the analytical pipeline.
