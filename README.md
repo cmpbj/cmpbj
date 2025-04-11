@@ -25,6 +25,7 @@ Currently, I leverage the Modern Data Stack to design and implement solutions th
 * Certifications:
   * SnowPro Core Certification
   * dbt Developer Certification
+  * Databricks Certified Data Engineer Associate
  
 Feel free to explore my repositories to see some of my projects and contributions. Let’s connect and collaborate to create impactful data solutions!
 
