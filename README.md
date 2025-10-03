@@ -3,7 +3,7 @@
 
 Hi, I’m Carlos Magno, and I’m thrilled to have you here!
 
-I am a Team Leader Analytics Engineer with a strong background in data analysis, modeling, and transformation. My professional journey has given me a comprehensive understanding of the data lifecycle.
+I am a Analytics Tech Lead with a strong background in data analysis, modeling, and transformation. My professional journey has given me a comprehensive understanding of the data lifecycle.
 
 Currently, I leverage the Modern Data Stack to design and implement solutions that deliver actionable insights and drive business success.
 
@@ -17,8 +17,8 @@ Currently, I leverage the Modern Data Stack to design and implement solutions th
 
 **Tools & Technologies I Work With**:
 
-* Databases: Databricks, Snowflake, BigQuery
-* Data Transformation: dbt
+* Databases: Databricks, Snowflake, BigQuer
+* Data Transformation: dbt / dlt (Databricks)
 * Visualization: Power BI
 * Programming: Python, SQL
 * Version Control & CI/CD: GitHub, Bitbucket
