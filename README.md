@@ -17,7 +17,7 @@ Currently, I leverage the Modern Data Stack to design and implement solutions th
 
 **Tools & Technologies I Work With**:
 
-* Databases: Databricks, Snowflake, BigQuer
+* Databases: Databricks, Snowflake, BigQuery
 * Data Transformation: dbt / dlt (Databricks)
 * Visualization: Power BI
 * Programming: Python, SQL
